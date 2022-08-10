@@ -1,0 +1,14 @@
+2. Responda, é correto afirmar que na instrução a seguir, estamos...
+
+
+let numeros = [1, 2, 3, 4, 5];
+
+numeros.map(numero => numero * 2);
+
+Resposta: Dobra os valores da Array números em uma cópia
+____________________________________________________________________________________________
+
+3. Responda, em uma aplicação Reactjs o  npx create-react-app, tem o propósito de…
+
+Resposta: Instalar o React no projeto existente* ou não.
+____________________________________________________________________________________________
